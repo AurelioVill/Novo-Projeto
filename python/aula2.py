@@ -1,2 +1,2 @@
-print (12, 34)
-print (56, 78)
+print (12, 34, sep= '-')
+print (56, 78, sep= '-')
