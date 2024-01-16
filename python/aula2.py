@@ -8,6 +8,8 @@ print (56, 78, sep= '-', end= '*\n')
 
 #---------------------------------------------------
 #Aula de Strings
+#str --> String --> texto
+
 
 #Aspas  simples
 print('José Aurélio')
@@ -16,4 +18,7 @@ print('José Aurélio')
 print("José Aurélio")
 
 #Escape
+print("José \"Aurélio") 
+
+#r
 print("José \"Aurélio") 
